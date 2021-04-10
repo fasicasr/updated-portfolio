@@ -67,6 +67,11 @@ header nav ul li {
     font-size: 50px;
 }
 
+.mypic img {
+    float: left;
+    width: 30px;
+    margin-right: 10px;
+}
 
 
 /*banner properties*/
