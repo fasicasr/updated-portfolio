@@ -1,0 +1,286 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:rgb(247, 247, 247)
+}
+/*nav bar text*/
+a {
+    color:  black;
+    text-decoration: underline
+}
+
+p {
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    color:  #535353;
+
+}
+/*header content*/
+/* header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #535353;
+    color: rgb(167, 167, 224)
+} */
+
+/* header h1 {
+    display: inline-block;
+    font-size: 40px;
+    background-color:#398a9e;
+    color:  #535353;
+    padding-left: 200px;
+} */
+img { 
+    max-width: 100%;
+     height: auto;
+ }
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    position: relative;
+    bottom: 715px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.aboutme {
+    text-align: center;
+}
+
+.aboutme h3 {
+    font-size: 50px;
+}
+
+
+
+/*banner properties*/
+/* .banner, .b1 {
+    display: block;
+    width: 100%;
+    height: 175px;
+    margin-bottom: 40px;
+}
+
+.banner span {
+    display: inline-block;
+    font-size: 40px;
+    background-color:#d4f0ea;
+    color:  #535353;
+    position: relative;
+}
+
+.container {
+    position: relative;
+} */
+  
+/* .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:#398a9e;
+    color:  #535353;
+} */
+  
+
+
+/* h3 {
+    display: inline-block;
+    font-size: 40px;
+    background-color:#398a9e;
+    color:  #535353;
+    margin-top: 10em;
+}
+
+h4 {
+    display: inline-block;
+    font-size: 40px;
+    background-color:#398a9e;
+    color:  #535353;
+    margin-top: 2em;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: safe;
+  }
+
+.flex-container2 {
+    display: flex;
+    justify-content: safe;
+  }
+  
+.aboutme, .contact, .work {
+    margin: 10px;
+    padding: 10px;
+    font-size: 45px;
+    border-right: solid;
+    text-align: right;
+    flex: 0 0 230px;
+   color:  #585555;
+}
+
+.aboutme2, .contact2 {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px; 
+    color: #535353;
+   }
+
+.aboutme2 {
+    font-size: 25px;
+}
+
+.mypic {
+    float: left;
+    width: 85px;
+    height: 130px;
+    margin-top: 5px;
+    margin-right: 25px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+}
+.work2 {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    width: 100%;
+    position: relative;
+}
+  
+.box1 {
+    background-color: #f1f1f1;
+    margin: 10px;
+    width: 100%;
+    height: 500px;
+    font-size: 30px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+    background-image: url(./images/coderefactor.jpg);
+    background-size: cover;
+    
+  }
+
+.box2 {
+    background-color: #f1f1f1;
+    margin: 10px;
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+    background-image: url(./images/box2.jpg);
+    cursor: pointer;
+    background-size: cover;
+}
+
+.box3 {
+    background-color: #f1f1f1;
+    margin: 10px;
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+    background-image: url(./images/box3.jpg);
+    cursor: pointer;
+    background-size: cover;
+}
+
+.box4 {
+    background-color: #f1f1f1;
+    margin: 10px;
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+    background-image: url(./images/box4.jpg);
+    cursor: pointer;
+    background-size: cover;
+  }
+
+.box5 {
+    background-color: #f1f1f1;
+    margin: 10px;
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+    background-image: url(./images/box5.jpg);
+    cursor: pointer;
+    background-size: cover;
+}
+  
+ul {
+      display: flex;
+      justify-content: space-between;
+  }
+  
+li {
+    padding-right: 30px;
+    list-style: none; 
+    margin-left: 1.6em;
+    color: #535353;
+}
+  
+.fade {
+    opacity:0.5;
+    transition: 1s ease;
+}
+
+:hover {
+    opacity:1;
+    transition: 1s ease;
+}
+
+@media only screen and (max-width: 900px) {
+    .flex-container2 {
+        display: block;
+    }
+    
+    body {
+        background-color: black;
+    }
+    ul {
+        display: block;
+    }
+    
+}
+
+main {
+    width: 100%;
+}
+footer {
+    width: 100%;
+}  */
