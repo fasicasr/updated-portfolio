@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: fantasy;
 }
 
 body {
@@ -30,19 +31,22 @@ p {
     float: left;
     width: 65%;
     margin-top: 3%;
+    margin-bottom: 61px;
+    margin-left: 88px;
 
 }
 
-/* .bg {
-    background-image: url("./images/banner3.jpg");
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;  
-} */
+.intro {
+    text-align: center;
+    padding: 213px;
+}
 
 img { 
     padding-top: 0%;
+    border: 2px solid #ef664d;
+    width:  325px;
+    height: 325px;
+    object-fit: cover;
     
  }
 
@@ -50,7 +54,6 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     position: relative;
     bottom: 715px;
@@ -84,9 +87,6 @@ h3 {
     float: left;
 }
 
-.portfolio {
-    background-color: #ef664d;;
-}
 
 
 
