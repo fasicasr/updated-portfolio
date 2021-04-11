@@ -17,12 +17,6 @@ header {
     background: url("./images/banner3.jpg") center / cover;
 }
 
-.bio {
-    font-size: 15px;
-    color: #7e7e7e;
-    line-height: 1.5em;
-}
-
 /*nav bar text*/
 a {
     color:  black;
@@ -30,10 +24,12 @@ a {
 }
 
 p {
-    font-size: 16px;
-    position: relative;
+    font-size: 20px;
     top: 10px;
     color:  #535353;
+    float: left;
+    width: 65%;
+    margin-top: 3%;
 
 }
 
@@ -73,15 +69,24 @@ header nav ul li {
     text-align: center;
 }
 
-.aboutme h3 {
+h3 {
     font-size: 50px;
+    text-align: center;
+}
+
+.aboutme h3 {
+    margin-left: 434px;
 }
 
 .mypic img {
     border: 2px solid #ef664d;
-    border-radius: 102px;
+    border-radius: 279px;
+    float: left;
 }
 
+.portfolio {
+    background-color: #ef664d;;
+}
 
 
 
