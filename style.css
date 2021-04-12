@@ -58,7 +58,8 @@ img {
 
 header nav ul {
     list-style-type: none;
-    margin-top: -35%;
+    margin-top: -37%;
+    float: right;
 }
 
 header nav ul li {
