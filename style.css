@@ -84,6 +84,7 @@ h3 {
     text-align: center;
     padding-bottom: 137px;
     padding-top: 169px;
+    color: #ef664d;
 }
 
 .aboutme h3 {
@@ -91,13 +92,23 @@ h3 {
     padding-top: 50px;
 }
 
+.contact h3 {
+    padding-bottom: 17px;
+    padding-top: 50px;
+}
+
 .portfolio h3 {
     padding-right: 60px;
+    padding-bottom: 50px;
 }
 .mypic img {
     border: 2px solid #ef664d;
     border-radius: 279px;
     float: center;
+}
+
+.row {
+    background-color: lightslategray;
 }
 
 
