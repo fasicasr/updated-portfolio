@@ -42,7 +42,7 @@ p {
 .intro {
     text-align: center;
     padding: 213px;
-    padding-top: 216px;
+    padding-top: 271px;
 }
 
 .intro h2 {
@@ -98,7 +98,7 @@ h3 {
 .portfolio h3 {
     padding-right: 60px;
     padding-bottom: 50px;
-    margin-left: 64px;
+    margin-right: 54px;
 }
 .mypic img {
     border: 2px solid #ef664d;
@@ -135,6 +135,8 @@ a:hover {
     body {
         background-color: black;
     }
-    
+    ul {
+        display: block;
+    }
+  
 }
-

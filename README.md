@@ -16,6 +16,13 @@ Github:
 
 # Webpage Display 
 
+![Intro](./images/webpage-screenshot.png)
+![About Me](./images/webpage-screenshot.png)
+![Portfolio](./images/webpage-screenshot.png)
+![Contact Me](./images/webpage-screenshot.png)
+
+
+
 
 
 # collaborators
