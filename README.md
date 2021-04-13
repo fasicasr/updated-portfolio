@@ -4,8 +4,8 @@ An updated portfolio created with HTML, CSS, and Bootstrap. This application hig
 
 # Webpage Links
 
-Application: https://fasicasr.github.io/updated-portfolio/index.html
-Github: https://github.com/fasicasr/updated-portfolio
+* Application: https://fasicasr.github.io/updated-portfolio/index.html
+* Github: https://github.com/fasicasr/updated-portfolio
 
 # Highlights 
 
@@ -23,13 +23,13 @@ Github: https://github.com/fasicasr/updated-portfolio
 
 
 
-# collaborators
+# Collaborators
 
 CryptoCurrently 
-Maria Guerrero - Github: mjquerrero
-Sam Garcia - Github: sam25188
-Sana Chowdhury - Github: sanawck
-Fasica Robi - Github: fasicasr
+* Maria Guerrero - Github: mjquerrero
+* Sam Garcia - Github: sam25188
+* Sana Chowdhury - Github: sanawck
+* Fasica Robi - Github: fasicasr
 
 # License
 
