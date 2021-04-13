@@ -16,9 +16,13 @@ An updated portfolio created with HTML, CSS, and Bootstrap. This application hig
 
 # Webpage Display 
 
+Intro:
 ![Intro](./images/intro.png)
+About Me:
 ![About Me](./images/about.png)
+Portfolio 
 ![Portfolio](./images/work.png)
+Contact Me:
 ![Contact Me](./images/contact.png)
 
 
