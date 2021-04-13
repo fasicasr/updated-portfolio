@@ -38,3 +38,5 @@ CryptoCurrently
 # License
 
 The MIT Lcense(MIT)
+
+Copyright © 2021 
