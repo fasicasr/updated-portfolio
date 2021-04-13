@@ -42,6 +42,7 @@ p {
 .intro {
     text-align: center;
     padding: 213px;
+    padding-top: 216px;
 }
 
 .intro h2 {
@@ -121,10 +122,9 @@ h4 {
 }
 
 a:hover {
-    /* opacity:1;
-    transition: 1s ease; */
     background-color: #ef664d;
 }
+
 
 
 @media only screen and (max-width: 900px) {
