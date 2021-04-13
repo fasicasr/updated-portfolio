@@ -15,7 +15,7 @@ header {
     height: 100vh;
     text-align: center;
     color: #fff;
-    background: url("./images/banner3.jpg") center / cover;
+    background: url("./images/banner2.jpg") center / cover;
 }
 
 /*nav bar text*/
@@ -85,6 +85,7 @@ h3 {
 .aboutme h3 {
     padding-bottom: 36px;
     padding-top: 50px;
+    margin-left: -28px;
 }
 
 .contact h3 {
@@ -95,6 +96,7 @@ h3 {
 .portfolio h3 {
     padding-right: 60px;
     padding-bottom: 50px;
+    margin-left: 64px;
 }
 .mypic img {
     border: 2px solid #ef664d;
