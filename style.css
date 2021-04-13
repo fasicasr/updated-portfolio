@@ -65,7 +65,7 @@ header nav ul {
     float: right;
 }
 
-header nav ul li {
+header nav ul li  {
     display: inline-block;
     margin-left: 25px;
 }
