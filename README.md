@@ -29,7 +29,7 @@ Contact Me:
 
 # Collaborators
 
-CryptoCurrently 
+CryptoCurrently
 * Maria Guerrero - Github: mjquerrero
 * Sam Garcia - Github: sam25188
 * Sana Chowdhury - Github: sanawck
