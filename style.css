@@ -20,8 +20,11 @@ header {
 
 /*nav bar text*/
 a {
-    color:  black;
-    text-decoration: underline
+    color:  white;
+    padding: 0em 0.5em;
+    text-decoration: none;
+    font-weight: bold;
+    border-style: groove;
 }
 
 p {
@@ -96,11 +99,18 @@ h3 {
 .mypic img {
     border: 2px solid #ef664d;
     float: center;
+    margin-right: 56px;
 }
 
-.row {
+.row  {
     background-color: lightslategray;
+    border-radius: 10px;
 }
+
+.row img {
+    border-radius: 10px;
+}
+
 
 
 @media only screen and (max-width: 900px) {
