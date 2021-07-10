@@ -19,13 +19,17 @@ header {
 }
 
 /*nav bar text*/
-a {
+
+.navbar {
+    text-align: right;
+}
+/* a {
     color:  white;
     padding: 0em 0.5em;
     text-decoration: none;
     font-weight: bold;
     border-style: groove;
-}
+} */
 
 p {
     font-size: 20px;
@@ -59,7 +63,7 @@ img {
     object-fit: cover;
     
  }
-
+/* 
 header nav ul {
     list-style-type: none;
     margin-top: -37%;
@@ -69,7 +73,7 @@ header nav ul {
 header nav ul li  {
     display: inline-block;
     margin-left: 25px;
-}
+} */
 
 .aboutme {
     text-align: center;
@@ -107,7 +111,7 @@ h3 {
 }
 
 .row  {
-    background-color: lightslategray;
+    /* background-color: lightslategray; */
     border-radius: 10px;
 }
 
