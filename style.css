@@ -20,9 +20,9 @@ body {
 
 /*nav bar text*/
 
-.navbar {
+/* .navbar {
     text-align: right;
-}
+} */
 /* a {
     color:  white;
     padding: 0em 0.5em;
@@ -40,7 +40,13 @@ body {
     margin-top: 3%;
     margin-bottom: 61px;
     margin-left: 316px;
- */
+
+} */
+
+p {
+    text-align: center;
+    border: solid;
+    border-color: white;
 }
 
 .intro {
@@ -57,7 +63,7 @@ body {
 
 img { 
     padding-top: 0%;
-    border: 2px solid #ef664d;
+    border: 2px solid lightpink;
     width:  386px;
     height: 325px;
     object-fit: cover;
@@ -84,7 +90,7 @@ h3 {
     text-align: center;
     padding-bottom: 137px;
     padding-top: 169px;
-    color: #ef664d;
+    color: lightpink;
     text-decoration: overline;
 }
 
@@ -126,15 +132,15 @@ h4 {
 }
 
 a:hover {
-    background-color: #ef664d;
+    background-color: lightpink;
 }
 
 
 
 @media only screen and (max-width: 900px) {
-    .aboutme {
+    /* .aboutme {
         display: block;
-    }
+    } */
     
     body {
         background-color: black;
@@ -144,3 +150,15 @@ a:hover {
     }
   
 }
+
+@media screen and (min-width: 601px) {
+    div.example {
+      font-size: 80px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    div.example {
+      font-size: 30px;
+    }
+  }
