@@ -109,6 +109,13 @@ h4 {
 }
 
 
+.sidebar {
+    width: 15%;
+    position: fixed;
+    background-color: lightpink;
+    border-right: 2px solid;
+      bottom: 5px;;
+  }
 
 
 /* 
