@@ -77,7 +77,7 @@ img {
  }
 
  /*benefits section*/
-.sidebar {
+/* .sidebar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -103,13 +103,13 @@ img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 h4 {
     text-align: center;
 }
 
-
+/* 
 .sidebar {
     width: 15%;
     position: fixed;
@@ -117,7 +117,7 @@ h4 {
     border-right: 2px solid;
       bottom: 5px;;
   }
-
+ */
 
 /* 
 header nav ul {
@@ -138,13 +138,13 @@ header nav ul li  {
 h3 {
     font-size: 50px;
     text-align: center;
-    padding-bottom: 137px;
-    padding-top: 169px;
+    /* padding-bottom: 137px; */
+    /* padding-top: 169px; */
     color: lightpink;
     text-decoration: overline;
 }
 
-.aboutme h3 {
+/* .aboutme h3 {
     padding-bottom: 36px;
     padding-top: 50px;
     margin-left: -28px;
@@ -159,7 +159,7 @@ h3 {
     padding-right: 60px;
     padding-bottom: 50px;
     margin-right: 54px;
-}
+} */
 .mypic img {
     border: 2px solid #ef664d;
     float: center;
