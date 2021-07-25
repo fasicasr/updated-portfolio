@@ -41,6 +41,12 @@ ViBlocks
 * Dmitry Balduev Github: dmitrybalduev 
 * Sallieu Kanu Github: salmankanu 
 
+
+# Questions
+
+* Github: https://github.com/fasicasr
+* Email: Fasicasr@gmail.com
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
