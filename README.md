@@ -18,13 +18,13 @@ An updated portfolio created with HTML, CSS, and Bootstrap. This application now
 # Webpage Display 
 
 Intro:
-![Intro](./images/intro.png)
+![Intro](./images/navbar.png)
 About Me:
-![About Me](./images/about.png)
-Portfolio 
-![Portfolio](./images/work.png)
-Contact Me:
-![Contact Me](./images/contact.png)
+![About Me](./images/aboutme.png)
+Projects:
+![Projects](./images/projects.png)
+Work Sample and Contact Me:
+![Contact Me](./images/workcontact.png)
 
 
 
@@ -37,9 +37,9 @@ CryptoCurrently
 * Fasica Robi - Github: fasicasr
 
 ViBlocks
-* Forest Wilson Github: https://github.com/ForestW70
-* Dmitry Balduev Github: https://github.com/dmitrybalduev
-* Sallieu Kanu Github: https://github.com/salmankanu
+* Forest Wilson Github: ForestW70 
+* Dmitry Balduev Github: dmitrybalduev 
+* Sallieu Kanu Github: salmankanu 
 
 ## License
 

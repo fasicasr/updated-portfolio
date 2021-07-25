@@ -9,6 +9,7 @@ body {
 
 }
 
+
 /* header {
     position: relative;
     width: 100%;
@@ -138,13 +139,13 @@ header nav ul li  {
 h3 {
     font-size: 50px;
     text-align: center;
-    /* padding-bottom: 137px; */
-    /* padding-top: 169px; */
+    padding-bottom: 137px;
+    padding-top: 169px;
     color: lightpink;
     text-decoration: overline;
 }
 
-/* .aboutme h3 {
+.aboutme h3 {
     padding-bottom: 36px;
     padding-top: 50px;
     margin-left: -28px;
@@ -159,21 +160,26 @@ h3 {
     padding-right: 60px;
     padding-bottom: 50px;
     margin-right: 54px;
-} */
-.mypic img {
+}
+/* .mypic img {
     border: 2px solid #ef664d;
     float: center;
     margin-right: 56px;
-}
+} */
 
-.row  {
+/* .row  { */
     /* background-color: lightslategray; */
-    border-radius: 10px;
-}
+    /* border-radius: 10px;
+} */
 
-.row img {
+/* .row img {
     border-radius: 10px;
-}
+} */
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 h4 {
     padding-top: 40px;
